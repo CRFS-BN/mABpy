@@ -16,7 +16,7 @@ The pipeline is customised to a high-throughput, semi-automated mABs production 
 
 The code published here is thought to serve as **guidance in building similar pipelines in other setups**. We encourage the reader to get familiar with our paper before reproducing any pipeline steps. 
 
-We recommend reproducing a [simplified, template pipeline](link_to_simplified_pipeline) that contains sample data processing steps. Within the simplified pipeline you can also find hints on how to adjust it to your own requirements. However, if you wish to download the whole pipeline, follow the steps below.
+We recommend reproducing a [simplified, template pipeline](simplified_pipeline) that contains sample data processing steps. Within the simplified pipeline you can also find hints on how to adjust it to your own requirements. However, if you wish to download the whole pipeline, follow the steps below.
 ## Setup
 
 ### Installation instructions
