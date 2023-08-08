@@ -14,15 +14,14 @@ However, if you wish to download the whole pipeline and reproduce other data pro
 * [Reproducing the pipeline run “as is”](#reproducing-the-pipeline-as-is)
 * [Adjusting the pipeline to your own needs](#adjusting-the-pipeline-to-your-own-needs)
 * [References](#references)
+  
 ## Setup
 
-You can download the simplified pipeline version from the [releases page](link-to-releases-page).
+1. You can download the simplified pipeline version from the [releases page](https://github.com/Malwoiniak/mABpy/archive/refs/tags/v1.0.0.zip). This will download the source code of simplified pipeline (dir `mABpy-1.0.0/`)
 
-Alternatively, you can clone the repository using Git:
+3. In terminal, navigate to the `mABpy-1.0.0/simplified_pipeline` directory of the extracted repository
+4. Follow the setup steps (from step 5.) described [here](https://github.com/Malwoiniak/mABpy/tree/main#setup) to finish the installation
 
-`git clone -b branchAfterRELEASE --single-branch LINKTOREPO`
-
-Next, follow the setup steps (from step 3.) described [here](https://github.com/Malwoiniak/mABpy/tree/main#setup) to finish the installation.
 ## Reproducing the pipeline run “as is”
 
 You can follow the [tutorial](link) to get you through the instructions on reproducing **all** pipeline steps. Otherwise, see below for the description on reproducing sample steps. 
