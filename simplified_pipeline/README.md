@@ -24,7 +24,7 @@ However, if you wish to download the whole pipeline and reproduce other data pro
 
 ## Reproducing the pipeline run “as is”
 
-You can follow the [tutorial](link) to get you through the instructions on reproducing **all** pipeline steps. Otherwise, see below for the description on reproducing sample steps. 
+You can follow the [tutorial](manuals/mABpy_tutorial.pdf) to get you through the instructions on reproducing **all** pipeline steps. Otherwise, see below for the description on reproducing sample steps. 
 
 **Note that** plate numbers used in this example are arbitrary and were selected to match the barcode values in downstream files, ensuring consistency throughout pipeline run. 
 
