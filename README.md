@@ -56,7 +56,7 @@ my_venv\Scripts\activate
 
 ## Reproducing the pipeline run
 
-The best way to reproduce the pipeline is to follow the comprehensive instructions in this [tutorial](link_to_manual). Below you can find an example explanation on how to run the script `05_PCR3.py`, which prepares the samples for a final PCR step (PCR3) and capillary electrophoresis (cELE), before cloning by Gibson Assembly (GiAS).
+The best way to reproduce the pipeline is to follow the comprehensive instructions in this [tutorial](manuals/mABpy_tutorial.pdf). Below you can find an example explanation on how to run the script `05_PCR3.py`, which prepares the samples for a final PCR step (PCR3) and capillary electrophoresis (cELE), before cloning by Gibson Assembly (GiAS).
 
 After downloading the pipeline, you will note that there are already some output files produced on each pipeline step. They serve as example of a complete pipeline run. Your files will be added to each step’s directory after the run. 
 ### What do you need?
