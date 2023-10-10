@@ -2,7 +2,7 @@
 [![DOI](https://zenodo.org/badge/676124646.svg)](https://zenodo.org/badge/latestdoi/676124646)
 > A Python data processing pipeline for high-throughput production of monoclonal antibodies
 > 
-This repository holds the python modules of the data processing pipeline for the production of monoclonal antibodies (mABs) from patient-derived, single B-cells, as described in [Gain efficiency with simple and automated data processing: Examples from a high-throughput workflow for the production of monoclonal antibodies](link_to_preprint)
+This repository holds the python modules of the data processing pipeline for the production of monoclonal antibodies (mABs) from patient-derived, single B-cells, as described in [Efficiency unleashed: Streamlined and automated data processing in high-throughput monoclonal antibody production](link_to_preprint)
 ## Table of contents
 * [General info](#general-info)
 * [Setup](#setup)
