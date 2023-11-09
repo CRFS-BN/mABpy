@@ -27,7 +27,7 @@ Bodypy requires Python (3.7+), together with the following packages: pandas and 
 1.	Download the full pipeline [here](https://github.com/Malwoiniak/mABpy/archive/refs/heads/main.zip)
 2.	Alternatively, you can clone the repository by running:
 
-`git clone https://github.com/Malwoiniak/mABpy.git`
+`git clone https://github.com/CRFS-BN/mABpy.git`
 
 3.	Extract the contents of the zip files, if necessary.
 4.	In terminal, navigate to the root directory of the extracted repository
