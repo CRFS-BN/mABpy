@@ -102,5 +102,5 @@ Malwina Kotowicz: m_kotowicz@hotmail.com, feel free to contact me!
 
 ## References
 
-[1] Preprint on Biorxiv and [DOI](link)
+[1] Kotowicz, M. et al., 2023. Gain efficiency with streamlined and automated data processing: Examples from high-throughput monoclonal antibody production. BioRxiv. [DOI](https://doi.org/10.1101/2023.12.14.571214)
 
