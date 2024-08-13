@@ -22,7 +22,7 @@ We recommend reproducing a [simplified, template pipeline](simplified_pipeline) 
 
 ### Installation instructions
 
-mABpy requires Python (3.7+), together with the following packages: pandas and numpy. You can install the necessary dependencies by following a few simple steps:
+mABpy requires Python (3.8.12), together with the following packages: pandas and numpy. You can install the necessary dependencies by following a few simple steps:
 
 1.	Download the full pipeline [here](https://github.com/Malwoiniak/mABpy/archive/refs/heads/main.zip)
 2.	Alternatively, you can clone the repository by running:
